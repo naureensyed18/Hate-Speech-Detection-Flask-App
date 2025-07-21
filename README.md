@@ -18,19 +18,24 @@ A web-based application that uses Natural Language Processing (NLP) and Machine 
 
 ```
 Hate-Speech-Detection-Flask-App/
-├── app.py
-├── train_model.py
-├── model/
-│   ├── model.pkl
-│   └── vectorizer.pkl
 ├── data/
-│   └── hate_speech_dataset.csv
+│   └── myFinalModel.pkl
+|   └── classifier.ipynb
+|   └── data.csv
 ├── templates/
-│   └── index.html
+│   └── home.html
+│   └── skin.jpg
 ├── static/
-│   └── style.css
-├── requirements.txt
+│   └── image.png
+│   └── imag.png
+|   └── patt.png
+└── app.py
+└── classifier.ipynb
+└── data.csv
+└── data2.csv
+└── myFinalModel.pkl
 └── README.md
+└── ss.png
 ```
 
 ---
