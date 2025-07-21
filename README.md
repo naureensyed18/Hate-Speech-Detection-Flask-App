@@ -88,9 +88,6 @@ Open your browser at [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 📄 License
-
-MIT License
 
 ---
 
